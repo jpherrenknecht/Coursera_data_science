@@ -1,1 +1,5 @@
-# jpherrenknecht-Coursera_data_science
+# Coursera_data_science   
+Pandas- folium
+Charts matplotlib - Foursquare API
+Choropleth
+shapely
