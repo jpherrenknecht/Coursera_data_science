@@ -1,2 +1,3 @@
 # Coursera-Data-Science
-Final assignment for Coursera
+Final assignment for Coursera   
+Exemples Pandas Folium Matplotlib Foursquare shapely
