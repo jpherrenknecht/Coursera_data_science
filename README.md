@@ -1,5 +1,2 @@
-# Coursera_data_science  
-Pandas- folium -
-Charts matplotlib - Foursquare API-
-Choropleth-
-Shapely
+# Coursera-Data-Science
+Final assignment for Coursera
